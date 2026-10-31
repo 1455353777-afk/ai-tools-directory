@@ -1,0 +1,32 @@
+{
+  "https://www.workbuddy.cn/": {
+    "slug": "workbuddy",
+    "category": "其他",
+    "name": "WorkBuddy",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.deepseek.com/": {
+    "slug": "deepseek",
+    "category": "其他",
+    "name": "DeepSeek",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://cursor.com/": {
+    "slug": "cursor",
+    "category": "其他",
+    "name": "Cursor",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://aic.oceanengine.com/": {
+    "slug": "即创-字节跳动",
+    "category": "其他",
+    "name": "即创 (字节跳动)",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.midjourney.com/": {
+    "slug": "midjourney",
+    "category": "其他",
+    "name": "Midjourney",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  }
+}

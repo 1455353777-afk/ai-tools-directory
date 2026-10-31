@@ -1,0 +1,16 @@
+{
+  "site_title": "AI 工具使用场景目录",
+  "site_tagline": "按使用场景整理值得一试的 AI 工具，每天自动更新",
+  "deepseek_api_key": "sk-你的deepseek密钥（留空也能跑，但条目仅含官网链接）",
+  "deepseek_base_url": "https://api.deepseek.com",
+  "deepseek_model": "deepseek-chat",
+  "queries": ["AI tool", "AI agent", "AI app", "LLM tool"],
+  "max_new_per_run": 5,
+  "days_window": 7,
+  "affiliate_note": "部分链接为联盟链接，通过它们注册/购买可支持本站，不影响你的价格。",
+  "affiliate_links": {
+    "淘宝联盟": "https://pub.alimama.com/ 把这里换成你的推广链接",
+    "京东联盟": "https://union.jd.com/ 把这里换成你的推广链接",
+    "本站专属福利": ""
+  }
+}
