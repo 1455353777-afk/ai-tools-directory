@@ -28,5 +28,35 @@
     "category": "其他",
     "name": "Midjourney",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.parameter.ai/labs/we-found-a-gap-at-openai": {
+    "slug": "do-the-math-how-we-took-over-chatgpt-accounts",
+    "category": "其他",
+    "name": "Do the math: How we took over ChatGPT accounts",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/": {
+    "slug": "malware-uses-llms-to-rank-victims-by-how-much-they-re-worth",
+    "category": "其他",
+    "name": "Malware uses LLMs to rank victims by how much they're worth",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm": {
+    "slug": "fixing-tool-call-accuracy-in-vllm",
+    "category": "其他",
+    "name": "Fixing Tool-Call Accuracy in vLLM",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50301479": {
+    "slug": "ask-hn-are-you-tired-too-in-this-ai-era",
+    "category": "其他",
+    "name": "Ask HN: Are you tired too in this AI era?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/lonthq/overtone-captions": {
+    "slug": "show-hn-overtone-transcribe-correct-and-cut-captions-for-any",
+    "category": "其他",
+    "name": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
