@@ -58,5 +58,35 @@
     "category": "其他",
     "name": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/": {
+    "slug": "ai-delivers-zero-financial-payoff-to-most-companies-apollo-e",
+    "category": "其他",
+    "name": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/ivankovic/omnidiff": {
+    "slug": "show-hn-omnidiff-opensource-super-fast-content-aware-git-dif",
+    "category": "其他",
+    "name": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy": {
+    "slug": "ai-agent-swarms-in-minecraft-fail-to-build-civilization-drow",
+    "category": "其他",
+    "name": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://bbrouter.com/bbrouter/ben-eater-sap-1": {
+    "slug": "show-hn-bbrouter-ben-eater-s-8-bit-computer-simulated-on-3d-",
+    "category": "其他",
+    "name": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial": {
+    "slug": "muse-ai-agent-is-a-commercial-surveillance-network-disguised",
+    "category": "其他",
+    "name": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
