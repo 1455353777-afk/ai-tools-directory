@@ -88,5 +88,35 @@
     "category": "其他",
     "name": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50340088": {
+    "slug": "show-hn-subvocal-talk-to-your-computer-without-making-noise",
+    "category": "其他",
+    "name": "Show HN: Subvocal – Talk to your computer without making noise",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://momentic.ai/": {
+    "slug": "launch-hn-momentic-yc-w24-agents-that-catch-bugs-by-using-yo",
+    "category": "其他",
+    "name": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://longcat.ai/blog/longcat-2.5/": {
+    "slug": "longcat-2-5-native-multimodality-for-agentic-tasks",
+    "category": "其他",
+    "name": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50345712": {
+    "slug": "workos-reports-security-breach",
+    "category": "其他",
+    "name": "WorkOS reports security breach",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50337431": {
+    "slug": "ask-hn-what-hardware-are-you-using-to-run-local-llms",
+    "category": "其他",
+    "name": "Ask HN: What hardware are you using to run local LLMs?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
