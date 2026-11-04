@@ -118,5 +118,35 @@
     "category": "其他",
     "name": "Ask HN: What hardware are you using to run local LLMs?",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/postmanlabs/postman-app-support/issues/14370": {
+    "slug": "postman-silently-auto-installs-ai-plugins-and-attempts-to-sh",
+    "category": "其他",
+    "name": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50354336": {
+    "slug": "gitbook-breached",
+    "category": "其他",
+    "name": "Gitbook Breached",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/finic-ai/kairos": {
+    "slug": "show-hn-kairos-open-source-risk-and-fraud-decisioning-platfo",
+    "category": "其他",
+    "name": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games": {
+    "slug": "anthropic-orders-ai-tool-claude-to-stop-remaking-video-games",
+    "category": "其他",
+    "name": "Anthropic orders AI tool Claude to stop remaking video games",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html": {
+    "slug": "binance-says-hackers-used-fake-job-interviews-ai-tool-to-ste",
+    "category": "其他",
+    "name": "Binance says hackers used fake job interviews, AI tool to steal $6.3B",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
