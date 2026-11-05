@@ -148,5 +148,35 @@
     "category": "其他",
     "name": "Binance says hackers used fake job interviews, AI tool to steal $6.3B",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50366117": {
+    "slug": "ask-hn-what-s-your-current-ai-agentic-setup",
+    "category": "其他",
+    "name": "Ask HN: What's your current AI agentic setup?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://pcdealcheck.com/": {
+    "slug": "show-hn-i-built-a-tool-that-prices-a-pre-built-pc-part-by-pa",
+    "category": "其他",
+    "name": "Show HN: I built a tool that prices a pre-built PC part by part",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50368804": {
+    "slug": "launch-hn-kino-ai-yc-s23-ai-media-manager-and-video-editor",
+    "category": "其他",
+    "name": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/": {
+    "slug": "you-ll-need-nerves-of-steel-to-work-with-ai-agents",
+    "category": "其他",
+    "name": "You'll need nerves of steel to work with AI agents",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/gauge-sh/gauge-cli": {
+    "slug": "show-hn-gauge-open-source-cli-to-recursively-improve-your-do",
+    "category": "其他",
+    "name": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
