@@ -178,5 +178,35 @@
     "category": "其他",
     "name": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/rivet-dev/rivet": {
+    "slug": "launch-hn-rivet-yc-w23-scale-and-orchestrate-agents-on-s3",
+    "category": "其他",
+    "name": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e": {
+    "slug": "wipeout-for-ai-stocks-sends-wall-street-reeling-and-s-p-500-",
+    "category": "其他",
+    "name": "Wipeout for AI stocks sends Wall Street reeling and S&P 500 tumbles more than 3%",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.latimes.com/business/story/2026-10-30/big-techs-growth-is-cooling-raising-fears-that-best-quarters-are-over": {
+    "slug": "ai-stock-selloffs-fuel-fears-big-tech-s-best-quarters-are-ov",
+    "category": "其他",
+    "name": "AI stock selloffs fuel fears Big Tech's best quarters are over",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50360263": {
+    "slug": "ask-hn-what-is-the-best-non-mainstream-programming-language-",
+    "category": "其他",
+    "name": "Ask HN: What is the best non mainstream programming language or stack in 2026?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/": {
+    "slug": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl",
+    "category": "其他",
+    "name": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
