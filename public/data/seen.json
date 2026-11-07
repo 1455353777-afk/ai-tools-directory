@@ -208,5 +208,35 @@
     "category": "其他",
     "name": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work": {
+    "slug": "perplexity-launches-ai-agents-for-work",
+    "category": "其他",
+    "name": "Perplexity launches AI agents for work",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0": {
+    "slug": "show-hn-agents-infer-lego-mechanisms-from-sources-then-anima",
+    "category": "其他",
+    "name": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/zalando-incubator/agentic-identity-broker": {
+    "slug": "show-hn-agentic-identity-broker-oauth-delegation-for-ai-agen",
+    "category": "其他",
+    "name": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html": {
+    "slug": "ai-coding-agent-setups-from-663-hacker-news-comments",
+    "category": "其他",
+    "name": "AI coding agent setups from 663 Hacker News comments",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://adikshatriyag-crypto.github.io/aegis-kernel/": {
+    "slug": "show-hn-aegiskernel-zero-trust-posix-runtime-for-ai-agents-i",
+    "category": "其他",
+    "name": "Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
