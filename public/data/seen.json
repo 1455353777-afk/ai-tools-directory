@@ -238,5 +238,35 @@
     "category": "其他",
     "name": "Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph": {
+    "slug": "every-mac-comes-with-an-undocumented-family-member-classifie",
+    "category": "其他",
+    "name": "Every Mac comes with an (undocumented) family member classifier",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://portalworkers.com/blog/up-and-over-tool-chest/": {
+    "slug": "ai-supported-woodworking-building-an-up-and-over-tool-chest-",
+    "category": "其他",
+    "name": "AI-supported woodworking: Building an up-and-over tool chest with a clever hinge",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50403687": {
+    "slug": "is-programming-that-easy",
+    "category": "其他",
+    "name": "Is Programming That Easy?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50399637": {
+    "slug": "show-hn-i-asked-hn-about-ai-agentic-setups-here-are-750-of-t",
+    "category": "其他",
+    "name": "Show HN: I asked HN about AI agentic setups, here are 750 of the comments mapped",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://maildignity.com/": {
+    "slug": "show-hn-i-made-a-guardrail-against-ai-outreach-slop-api-mcp",
+    "category": "其他",
+    "name": "Show HN: I made a guardrail against AI outreach slop (API/MCP)",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
