@@ -298,5 +298,35 @@
     "category": "其他",
     "name": "Show HN: Email-like interface to review, decide, and annotate agent work",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50426070": {
+    "slug": "ask-hn-how-do-you-evaluate-the-skills-your-ai-agents-use",
+    "category": "其他",
+    "name": "Ask HN: How do you evaluate the skills your AI agents use?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records": {
+    "slug": "palantir-lobbied-minister-for-nhs-gp-records",
+    "category": "其他",
+    "name": "Palantir lobbied minister for NHS GP records",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/": {
+    "slug": "canada-s-ai-translation-tool-keeps-making-hilarious-mistakes",
+    "category": "其他",
+    "name": "Canada's AI translation tool keeps making hilarious mistakes",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://app.nuancelabs.ai/try": {
+    "slug": "show-hn-emma-a-real-time-ai-video-persona-from-nuance-labs",
+    "category": "其他",
+    "name": "Show HN: Emma, a real-time AI video persona from Nuance Labs",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/traccia-ai/traccia-py": {
+    "slug": "show-hn-traccia-open-sourced-ai-agent-runtime-governance",
+    "category": "其他",
+    "name": "Show HN: Traccia – open-sourced AI agent runtime governance",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
