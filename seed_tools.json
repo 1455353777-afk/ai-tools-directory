@@ -23,5 +23,10 @@
     "name": "Midjourney",
     "url": "https://www.midjourney.com/",
     "source": "人工种子"
+  },
+  {
+    "name": "agent-qa",
+    "url": "https://www.vostride.com/",
+    "source": "人工种子"
   }
 ]
