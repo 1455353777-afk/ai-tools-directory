@@ -358,5 +358,35 @@
     "category": "其他",
     "name": "AI Companies Crack Down on the Coolest Thing People Were Doing with AI",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/": {
+    "slug": "united-airlines-bans-ai-agents-from-booking-flights-on-behal",
+    "category": "其他",
+    "name": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/": {
+    "slug": "gemini-decisions-api",
+    "category": "其他",
+    "name": "Gemini Decisions API",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/FrigadeHQ/yogurt": {
+    "slug": "show-hn-yogurt-free-private-open-source-alternative-to-grano",
+    "category": "其他",
+    "name": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/klad-app/klad": {
+    "slug": "show-hn-klad-a-paint-app-your-coding-agent-can-drive-source-",
+    "category": "其他",
+    "name": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50455811": {
+    "slug": "launch-hn-pomerado-yc-f26-turn-any-website-into-an-mcp-for-a",
+    "category": "其他",
+    "name": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
