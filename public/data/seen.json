@@ -418,5 +418,35 @@
     "category": "其他",
     "name": "Distributed Ray Tracer",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/": {
+    "slug": "faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congesti",
+    "category": "其他",
+    "name": "FAA tees up $875M AI tool to help manage air traffic congestion",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free": {
+    "slug": "anthropic-upgrades-claude-code-projects-to-run-parallel-ai-w",
+    "category": "其他",
+    "name": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/langfuse/langfuse/tree/main/ai-gateway": {
+    "slug": "show-hn-langfuse-ai-gateway-open-source-rust-gateway-to-trac",
+    "category": "其他",
+    "name": "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/": {
+    "slug": "openai-launches-chatgpt-wallet-ai-agents-pay-for-purchase",
+    "category": "其他",
+    "name": "OpenAI launches ChatGPT Wallet, AI agents pay for purchase",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50446617": {
+    "slug": "ask-hr-systems-engineering-s-senior-pipeline-crisis",
+    "category": "其他",
+    "name": "Ask HR: Systems Engineering's Senior Pipeline Crisis",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
