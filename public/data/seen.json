@@ -448,5 +448,35 @@
     "category": "其他",
     "name": "Ask HR: Systems Engineering's Senior Pipeline Crisis",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://gitlab.com/snipedbywifi/terminactory": {
+    "slug": "show-hn-a-terminal-native-idle-factory-game-written-in-rust-",
+    "category": "其他",
+    "name": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50494696": {
+    "slug": "ask-hn-what-are-the-most-useful-concrete-ai-skills-to-indepe",
+    "category": "其他",
+    "name": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits": {
+    "slug": "claude-asked-to-renumber-pages-deletes-professor-s-syllabus-",
+    "category": "其他",
+    "name": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.shotoku.dev/": {
+    "slug": "show-hn-shotoku-local-first-action-governance-and-budget-cap",
+    "category": "其他",
+    "name": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://gammapdf.com/": {
+    "slug": "show-hn-gamma-pdf-ai-native-pdf-reader-self-hosted",
+    "category": "其他",
+    "name": "Show HN: Gamma PDF – AI-native PDF reader, self-hosted",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
