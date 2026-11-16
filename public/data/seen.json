@@ -478,5 +478,35 @@
     "category": "其他",
     "name": "Show HN: Gamma PDF – AI-native PDF reader, self-hosted",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/": {
+    "slug": "parents-pay-75k-for-alpha-s-ai-school-half-of-its-students-m",
+    "category": "其他",
+    "name": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/db-branch/db-branch": {
+    "slug": "show-hn-db-branch-database-branches-in-seconds-for-ai-agents",
+    "category": "其他",
+    "name": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/": {
+    "slug": "what-picasso-taught-me-about-building-ai-agents",
+    "category": "其他",
+    "name": "What Picasso taught me about building AI Agents",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50496383": {
+    "slug": "do-what-must-be-done",
+    "category": "其他",
+    "name": "Do what must be done",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://attest-framework.github.io/": {
+    "slug": "show-hn-attest-test-what-ai-agents-do-not-just-what-they-say",
+    "category": "其他",
+    "name": "Show HN: Attest – Test what AI agents do, not just what they say",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
