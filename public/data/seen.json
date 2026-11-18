@@ -538,5 +538,35 @@
     "category": "其他",
     "name": "Show HN: Deslop skill based on corpus-linguistics and psycholinguistics research",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://starsling.dev": {
+    "slug": "launch-hn-starsling-yc-p25-self-improving-ci-for-agent-volum",
+    "category": "其他",
+    "name": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/": {
+    "slug": "harvard-researchers-find-ai-coding-agents-shifted-the-bottle",
+    "category": "其他",
+    "name": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/RunanywhereAI/trnrt": {
+    "slug": "show-hn-trnrt-an-open-source-llm-inference-engine-for-aws-tr",
+    "category": "其他",
+    "name": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50538449": {
+    "slug": "ask-hn-aren-t-the-current-cyber-attacks-suspicious",
+    "category": "其他",
+    "name": "Ask HN: Aren't the current cyber attacks suspicious?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50527395": {
+    "slug": "ai-is-killing-cheap-vps-servers-manageable-pricing",
+    "category": "其他",
+    "name": "AI is killing cheap VPS servers/manageable pricing",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
