@@ -568,5 +568,35 @@
     "category": "其他",
     "name": "AI is killing cheap VPS servers/manageable pricing",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/": {
+    "slug": "google-gemini-s-tasks-personal-assistant-is-now-free",
+    "category": "其他",
+    "name": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50549188": {
+    "slug": "launch-hn-maritime-yc-f26-a-managed-cloud-for-production-ai-",
+    "category": "其他",
+    "name": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://resolve.ai/labs/sre-1/paper": {
+    "slug": "sre-1-27b-model-for-production-investigations",
+    "category": "其他",
+    "name": "SRE-1: 27B model for Production Investigations",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://springcraft-ai.github.io/springrep/": {
+    "slug": "show-hn-robotics-needs-better-cad-so-i-wrote-a-b-rep-kernel-",
+    "category": "其他",
+    "name": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50543947": {
+    "slug": "claude-gets-hella-paranoid",
+    "category": "其他",
+    "name": "Claude Gets Hella Paranoid",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
