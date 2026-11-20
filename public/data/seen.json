@@ -598,5 +598,35 @@
     "category": "其他",
     "name": "Claude Gets Hella Paranoid",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://quebec.yarn.so": {
+    "slug": "show-hn-an-api-for-word-timestamps-from-speech-75-within-20m",
+    "category": "其他",
+    "name": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://tabbyml.github.io/weight-space-playground/": {
+    "slug": "show-hn-watch-weight-space-programming-in-action-with-webgpu",
+    "category": "其他",
+    "name": "Show HN: Watch weight-space programming in action with WebGPU",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police": {
+    "slug": "an-fbi-agent-called-a-claude-user-about-his-chats",
+    "category": "其他",
+    "name": "An FBI agent called a Claude user about his chats",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50565484": {
+    "slug": "ask-hn-where-do-you-see-software-in-5-years",
+    "category": "其他",
+    "name": "Ask HN: Where do you see Software in 5 years?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.kradle.ai?1": {
+    "slug": "show-hn-kradlebench-multi-agent-ai-evals-in-minecraft",
+    "category": "其他",
+    "name": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
