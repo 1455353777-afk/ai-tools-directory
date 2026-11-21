@@ -628,5 +628,35 @@
     "category": "其他",
     "name": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/": {
+    "slug": "google-workers-tell-their-employer-not-to-punish-schools-tha",
+    "category": "其他",
+    "name": "Google workers tell their employer not to punish schools that don't want AI",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations": {
+    "slug": "european-rights-court-bars-romanian-lawyer-for-2-years-over-",
+    "category": "其他",
+    "name": "European rights court bars Romanian lawyer for 2 years over AI citations",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50566487": {
+    "slug": "anthropic-should-give-stock-to-stack-overflow-and-openai-too",
+    "category": "其他",
+    "name": "Anthropic should give stock to Stack Overflow (and OpenAI too)",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://cherwellvalleymotorclub.app": {
+    "slug": "show-hn-drive-around-my-village-in-3d",
+    "category": "其他",
+    "name": "Show HN: Drive around my village in 3D",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://bsky.app/profile/torbooks.bsky.social/post/3n2r7ra4rki2w": {
+    "slug": "tor-books-removes-book-cover-generated-with-ai",
+    "category": "其他",
+    "name": "Tor Books Removes Book Cover Generated with AI",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
