@@ -658,5 +658,35 @@
     "category": "其他",
     "name": "Tor Books Removes Book Cover Generated with AI",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.pandex.io": {
+    "slug": "pandex-official-european-law-for-ai-agents-over-mcp",
+    "category": "其他",
+    "name": "Pandex – Official European Law for AI Agents, over MCP",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50583252": {
+    "slug": "this-industrial-revolution-belongs-to-the-builders",
+    "category": "其他",
+    "name": "This Industrial Revolution Belongs to the Builders",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://clawvet.vercel.app/": {
+    "slug": "show-hn-clawvet-offline-ast-scanner-and-rug-pull-diff-for-ai",
+    "category": "其他",
+    "name": "Show HN: ClawVet – Offline AST scanner and rug-pull diff for AI agent skills",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50582890": {
+    "slug": "ask-hn-do-you-feel-developers-are-more-grumpy-these-days",
+    "category": "其他",
+    "name": "Ask HN: Do you feel developers are more \"grumpy\" these days?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50594639": {
+    "slug": "ask-hn-how-many-of-you-have-replaced-your-everyday-apps-with",
+    "category": "其他",
+    "name": "Ask HN: How many of you have replaced your everyday apps with something custom?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
