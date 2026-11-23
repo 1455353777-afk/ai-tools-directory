@@ -688,5 +688,35 @@
     "category": "其他",
     "name": "Ask HN: How many of you have replaced your everyday apps with something custom?",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50600771": {
+    "slug": "ask-hn-are-the-trades-a-safe-career-transition",
+    "category": "其他",
+    "name": "Ask HN: Are the trades a safe career transition?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np": {
+    "slug": "what-happened-in-fall-2026-ai-and-p-vs-np",
+    "category": "其他",
+    "name": "What Happened in Fall 2026: AI and P vs. NP",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://claude.com/resources/articles/zero-trust-for-ai-agents": {
+    "slug": "zero-trust-for-ai-agents",
+    "category": "其他",
+    "name": "Zero Trust for AI Agents",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.taskless.io/": {
+    "slug": "show-hn-taskless-turn-agents-md-and-pr-comments-into-runnabl",
+    "category": "其他",
+    "name": "Show HN: Taskless, turn AGENTS.md and PR comments into runnable checks",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://unmark.grandimam.com/": {
+    "slug": "show-hn-stop-applying-to-jobs-using-ai-generated-resume",
+    "category": "其他",
+    "name": "Show HN: Stop applying to jobs using AI-generated resume",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
