@@ -718,5 +718,35 @@
     "category": "其他",
     "name": "Show HN: Stop applying to jobs using AI-generated resume",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness": {
+    "slug": "amodei-reportedly-suggested-games-could-pacify-masses-after-",
+    "category": "其他",
+    "name": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/": {
+    "slug": "jensen-huang-s-apology-may-be-the-only-correct-use-of-ai",
+    "category": "其他",
+    "name": "Jensen Huang's Apology May Be the Only Correct Use of AI",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/voygr-tech/placebench": {
+    "slug": "show-hn-placebench-testing-ai-on-opening-and-closing-hours-a",
+    "category": "其他",
+    "name": "Show HN: PlaceBench – Testing AI on opening and closing hours (and last trains)",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/pkukielka/gitfold": {
+    "slug": "show-hn-gitfold-every-git-branch-as-a-folder-ready-in-a-seco",
+    "category": "其他",
+    "name": "Show HN: Gitfold – every Git branch as a folder, ready in a second",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://codeyam.com/apps/cadyam": {
+    "slug": "show-hn-a-free-creative-suite-built-in-rust-for-ai-collabora",
+    "category": "其他",
+    "name": "Show HN: A free creative suite, built in Rust, for AI collaboration",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
