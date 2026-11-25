@@ -748,5 +748,35 @@
     "category": "其他",
     "name": "Show HN: A free creative suite, built in Rust, for AI collaboration",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50630809": {
+    "slug": "ask-hn-anthropic-is-accusing-my-company-of-distilling-how-ca",
+    "category": "其他",
+    "name": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://masondata.ai/": {
+    "slug": "show-hn-mason-a-lightweight-postgres-read-replica-built-on-c",
+    "category": "其他",
+    "name": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50634426": {
+    "slug": "launch-hn-versine-yc-f26-mcp-to-send-and-receive-money",
+    "category": "其他",
+    "name": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://protocolis.co/paper/": {
+    "slug": "compiling-web-applications-into-verified-operations-for-ai-a",
+    "category": "其他",
+    "name": "Compiling web applications into verified operations for AI agents",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html": {
+    "slug": "anthropic-and-openai-employees-fear-unreleased-ai-models-too",
+    "category": "其他",
+    "name": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
