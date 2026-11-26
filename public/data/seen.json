@@ -778,5 +778,35 @@
     "category": "其他",
     "name": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://spendgap.ai/": {
+    "slug": "show-hn-free-tool-to-collect-invoices-and-spot-forgotten-sub",
+    "category": "其他",
+    "name": "Show HN: Free tool to collect invoices and spot forgotten subscriptions",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks": {
+    "slug": "ai-employees-sound-alarm-models-too-powerful-to-ever-release",
+    "category": "其他",
+    "name": "AI employees sound alarm: models too powerful to ever release",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50647893": {
+    "slug": "ask-hn-nobel-prizes-for-openai-and-anthropic-when",
+    "category": "其他",
+    "name": "Ask HN: Nobel Prizes for OpenAI and Anthropic: When?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://github.com/cerulion-inc/cerulion#harness-results": {
+    "slug": "show-hn-cerulion-harness-for-robotics-gemini-3-8-flash-match",
+    "category": "其他",
+    "name": "Show HN: Cerulion – Harness for Robotics, Gemini 3.8 Flash Matches GPT-6 Astra",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50647440": {
+    "slug": "ask-hn-for-professional-mathematicians-about-your-career-in-",
+    "category": "其他",
+    "name": "Ask HN: For professional Mathematicians –- about your career in the future",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
