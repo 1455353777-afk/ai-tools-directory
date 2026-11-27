@@ -808,5 +808,35 @@
     "category": "其他",
     "name": "Ask HN: For professional Mathematicians –- about your career in the future",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "http://themouseless.dev/vim/": {
+    "slug": "show-hn-i-wrote-an-entire-vim-manual-over-4-years",
+    "category": "其他",
+    "name": "Show HN: I wrote an entire Vim manual over 4 years",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50657957": {
+    "slug": "ask-hn-how-do-you-find-meaning-of-life-at-41",
+    "category": "其他",
+    "name": "Ask HN: How do you find meaning of life at 41?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/": {
+    "slug": "ai-agents-now-control-part-of-deepmind-s-compute-for-gemini-",
+    "category": "其他",
+    "name": "AI agents now control part of DeepMind's compute for Gemini experiments",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://news.ycombinator.com/item?id=50643767": {
+    "slug": "ask-hn-where-is-all-the-amazing-ai-generated-software",
+    "category": "其他",
+    "name": "Ask HN: Where is all the amazing AI-generated software?",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://aide.app/blog/self-improving-ai-agents": {
+    "slug": "we-built-self-improving-ai-agents-for-customer-service",
+    "category": "其他",
+    "name": "We built self-improving AI agents for customer service",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
