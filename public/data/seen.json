@@ -838,5 +838,35 @@
     "category": "其他",
     "name": "We built self-improving AI agents for customer service",
     "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://bouncemarket.minhanhday.com/": {
+    "slug": "show-hn-bouncemarket-a-live-prediction-market-game-for-a-bou",
+    "category": "其他",
+    "name": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://sessiongraph.ai/": {
+    "slug": "sessiongraph-visualize-all-your-coding-agent-sessions-in-one",
+    "category": "其他",
+    "name": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai": {
+    "slug": "woman-evicted-after-landlord-s-ai-assistant-told-her-she-cou",
+    "category": "其他",
+    "name": "Woman evicted after landlord's AI assistant told her she could delay rent",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer": {
+    "slug": "pizza-history-ai-agent-s-cardless-purchase-is-a-first-for-uk",
+    "category": "其他",
+    "name": "Pizza history: AI agent's cardless purchase is a first for UK",
+    "tagline": "（未配置 LLM key，待补充介绍）"
+  },
+  "https://officechai.com/ai/dating-app-ceo-says-claude-ignored-ethnicity-skin-tone-preferences-sabotaged-iq-estimation-while-building-its-app/": {
+    "slug": "dating-app-ceo-says-claude-sabotaged-code",
+    "category": "其他",
+    "name": "Dating App CEO Says Claude Sabotaged Code",
+    "tagline": "（未配置 LLM key，待补充介绍）"
   }
 }
